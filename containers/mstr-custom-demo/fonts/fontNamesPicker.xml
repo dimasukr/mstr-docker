@@ -1,0 +1,1006 @@
+<shortcut-list name="fontPicker" version="1.0">
+    <attributes>
+      <attribute name="ty" value="pkr" />
+    </attributes>
+    <shortcut desc="Arial" name="pkrArial">
+        <attributes>
+            <attribute name="style" value="font-family:Arial"/>
+            <attribute name="value" value="Arial"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Arial Black" name="pkrArial Black">
+        <attributes>
+            <attribute name="style" value="font-family:Arial Black"/>
+            <attribute name="value" value="Arial Black"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Arial Narrow" name="pkrArial Narrow">
+        <attributes>
+            <attribute name="style" value="font-family:Arial Narrow"/>
+            <attribute name="value" value="Arial Narrow"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Arial Unicode MS" name="pkrArial Unicode MS">
+        <attributes>
+            <attribute name="style" value="font-family:Arial Unicode MS"/>
+            <attribute name="value" value="Arial Unicode MS"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Batang" name="pkrBatang">
+        <attributes>
+            <attribute name="style" value="font-family:Batang"/>
+            <attribute name="value" value="Batang"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Book Antiqua" name="pkrBook Antiqua">
+        <attributes>
+            <attribute name="style" value="font-family:Book Antiqua"/>
+            <attribute name="value" value="Book Antiqua"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Bookman Old Style" name="pkrBookman Old Style">
+        <attributes>
+            <attribute name="style" value="font-family:Bookman Old Style"/>
+            <attribute name="value" value="Bookman Old Style"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Bookshelf Symbol 1" name="pkrBookshelf Symbol 1">
+        <attributes>
+            <attribute name="style" value="font-family:Bookshelf Symbol 1"/>
+            <attribute name="value" value="Bookshelf Symbol 1"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Bookshelf Symbol 2" name="pkrBookshelf Symbol 2">
+        <attributes>
+            <attribute name="style" value="font-family:Bookshelf Symbol 2"/>
+            <attribute name="value" value="Bookshelf Symbol 2"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Bookshelf Symbol 3" name="pkrBookshelf Symbol 3">
+        <attributes>
+            <attribute name="style" value="font-family:Bookshelf Symbol 3"/>
+            <attribute name="value" value="Bookshelf Symbol 3"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Comic Sans MS" name="pkrComic Sans MS">
+        <attributes>
+            <attribute name="style" value="font-family:Comic Sans MS"/>
+            <attribute name="value" value="Comic Sans MS"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Courier New" name="pkrCourier New">
+        <attributes>
+            <attribute name="style" value="font-family:Courier New"/>
+            <attribute name="value" value="Courier New"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Garamond" name="pkrGaramond">
+        <attributes>
+            <attribute name="style" value="font-family:Garamond"/>
+            <attribute name="value" value="Garamond"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Haettenschweiler" name="pkrHaettenschweiler">
+        <attributes>
+            <attribute name="style" value="font-family:Haettenschweiler"/>
+            <attribute name="value" value="Haettenschweiler"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Helvetica" name="pkrHelvetica">
+        <attributes>
+            <attribute name="style" value="font-family:Helvetica"/>
+            <attribute name="value" value="Helvetica"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Impact" name="pkrImpact">
+        <attributes>
+            <attribute name="style" value="font-family:Impact"/>
+            <attribute name="value" value="Impact"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Lucida Console" name="pkrLucida Console">
+        <attributes>
+            <attribute name="style" value="font-family:Lucida Console"/>
+            <attribute name="value" value="Lucida Console"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Lucida Sans Unicode" name="pkrLucida Sans Unicode">
+        <attributes>
+            <attribute name="style" value="font-family:Lucida Sans Unicode"/>
+            <attribute name="value" value="Lucida Sans Unicode"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Map Symbols" name="pkrMap Symbols">
+        <attributes>
+            <attribute name="style" value="font-family:Map Symbols"/>
+            <attribute name="value" value="Map Symbols"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Marlett" name="pkrMarlett">
+        <attributes>
+            <attribute name="style" value="font-family:Marlett"/>
+            <attribute name="value" value="Marlett"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Monotype Corsiva" name="pkrMonotype Corsiva">
+        <attributes>
+            <attribute name="style" value="font-family:Monotype Corsiva"/>
+            <attribute name="value" value="Monotype Corsiva"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Monotype Sorts" name="pkrMonotype Sorts">
+        <attributes>
+            <attribute name="style" value="font-family:Monotype Sorts"/>
+            <attribute name="value" value="Monotype Sorts"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MS Gothic" name="pkrMS Gothic">
+        <attributes>
+            <attribute name="style" value="font-family:MS Gothic"/>
+            <attribute name="value" value="MS Gothic"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MS Outlook" name="pkrMS Outlook">
+        <attributes>
+            <attribute name="style" value="font-family:MS Outlook"/>
+            <attribute name="value" value="MS Outlook"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Microsoft Sans Serif" name="pkrMicrosoft Sans Serif">
+        <attributes>
+            <attribute name="style" value="font-family:Microsoft Sans Serif"/>
+            <attribute name="value" value="Microsoft Sans Serif"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MT Extra" name="pkrMT Extra">
+        <attributes>
+            <attribute name="style" value="font-family:MT Extra"/>
+            <attribute name="value" value="MT Extra"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Roboto" name="pkrRoboto">
+        <attributes>
+            <attribute name="style" value="font-family:Roboto"/>
+            <attribute name="value" value="Roboto"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Symbol" name="pkrSymbol">
+        <attributes>
+            <attribute name="style" value="font-family:Symbol"/>
+            <attribute name="value" value="Symbol"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Tahoma" name="pkrTahoma">
+        <attributes>
+            <attribute name="style" value="font-family:Tahoma"/>
+            <attribute name="value" value="Tahoma"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Times New Roman" name="pkrTimes New Roman">
+        <attributes>
+            <attribute name="style" value="font-family:Times New Roman"/>
+            <attribute name="value" value="Times New Roman"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Trebuchet MS" name="pkrTrebuchet MS">
+        <attributes>
+            <attribute name="style" value="font-family:Trebuchet MS"/>
+            <attribute name="value" value="Trebuchet MS"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Verdana" name="pkrVerdana">
+        <attributes>
+            <attribute name="style" value="font-family:Verdana"/>
+            <attribute name="value" value="Verdana"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Webdings" name="pkrWebdings">
+        <attributes>
+            <attribute name="style" value="font-family:Webdings"/>
+            <attribute name="value" value="Webdings"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Wingdings" name="pkrWingdings">
+        <attributes>
+            <attribute name="style" value="font-family:Wingdings"/>
+            <attribute name="value" value="Wingdings"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Wingdings 2" name="pkrWingdings 2">
+        <attributes>
+            <attribute name="style" value="font-family:Wingdings 2"/>
+            <attribute name="value" value="Wingdings 2"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Wingdings 3" name="pkrWingdings 3">
+        <attributes>
+            <attribute name="style" value="font-family:Wingdings 3"/>
+            <attribute name="value" value="Wingdings 3"/>
+        </attributes>
+    </shortcut>    
+    <!--  JAPANESE -->
+    <shortcut desc="@Batang" name="pkrJa@Batang" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@Batang" />
+            <attribute name="value" value="@Batang"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@BatangChe" name="pkrJa@BatangChe" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@BatangChe" />
+            <attribute name="value" value="@BatangChe"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@Fixedsys" name="pkrJa@Fixedsys" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@Fixedsys" />
+            <attribute name="value" value="@Fixedsys"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@Gungsuh" name="pkrJa@Gungsuh" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@Gungsuh" />
+            <attribute name="value" value="@Gungsuh"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@GungsuhChe" name="pkrJa@GungsuhChe" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@GungsuhChe" />
+            <attribute name="value" value="@GungsuhChe"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HGS&#x5275;&#x82f1;&#x89d2;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;UB" name="pkrJa@HGS&#x5275;&#x82f1;&#x89d2;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;UB" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@HGS&#x5275;&#x82f1;&#x89d2;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;UB" />
+            <attribute name="value" value="@HGS&#x5275;&#x82f1;&#x89d2;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;UB"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HGP&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;" name="pkrJa@HGP&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@HGP&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;" />
+            <attribute name="value" value="@HGP&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;E" name="pkrJa@HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;E" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;E" />
+            <attribute name="value" value="@HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;E"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M" name="pkrJa@HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M" />
+            <attribute name="value" value="@HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HG&#x4e38;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M-PRO" name="pkrJa@HG&#x4e38;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M-PRO" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@HG&#x4e38;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M-PRO" />
+            <attribute name="value" value="@HG&#x4e38;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M-PRO"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HG&#x884c;&#x66f8;&#x4f53;" name="pkrJa@HG&#x884c;&#x66f8;&#x4f53;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@HG&#x884c;&#x66f8;&#x4f53;" />
+            <attribute name="value" value="@HG&#x884c;&#x66f8;&#x4f53;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HG&#x6b63;&#x6977;&#x66f8;&#x4f53;-PRO" name="pkrJa@HG&#x6b63;&#x6977;&#x66f8;&#x4f53;-PRO" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@HG&#x6b63;&#x6977;&#x66f8;&#x4f53;-PRO" />
+            <attribute name="value" value="@HG&#x6b63;&#x6977;&#x66f8;&#x4f53;-PRO"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HG&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;" name="pkrJa@HG&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@HG&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;" />
+            <attribute name="value" value="@HG&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@MingLiU" name="pkrJa@MingLiU" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@MingLiU" />
+            <attribute name="value" value="@MingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xff2d;&#xff33; &#xff30;&#x30b4;&#x30b7;&#x30c3;&#x30af;" name="pkrJa@&#xff2d;&#xff33; &#xff30;&#x30b4;&#x30b7;&#x30c3;&#x30af;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xff2d;&#xff33; &#xff30;&#x30b4;&#x30b7;&#x30c3;&#x30af;" />
+            <attribute name="value" value="@&#xff2d;&#xff33; &#xff30;&#x30b4;&#x30b7;&#x30c3;&#x30af;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xff2d;&#xff33; P&#x660e;&#x671d;" name="pkrJa@&#xff2d;&#xff33; P&#x660e;&#x671d;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xff2d;&#xff33; P&#x660e;&#x671d;" />
+            <attribute name="value" value="@&#xff2d;&#xff33; P&#x660e;&#x671d;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@MS UI Gothic" name="pkrJa@MS UI Gothic" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@MS UI Gothic" />
+            <attribute name="value" value="@MS UI Gothic"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xff2d;&#xff33; &#x30b4;&#x30b7;&#x30c3;&#x30af;" name="pkrJa@&#xff2d;&#xff33; &#x30b4;&#x30b7;&#x30c3;&#x30af;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xff2d;&#xff33; &#x30b4;&#x30b7;&#x30c3;&#x30af;" />
+            <attribute name="value" value="@&#xff2d;&#xff33; &#x30b4;&#x30b7;&#x30c3;&#x30af;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xff2d;&#xff33; &#x660e;&#x671d;" name="pkrJa@&#xff2d;&#xff33; &#x660e;&#x671d;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xff2d;&#xff33; &#x660e;&#x671d;" />
+            <attribute name="value" value="@&#xff2d;&#xff33; &#x660e;&#x671d;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@PMingLiU" name="pkrJa@PMingLiU" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@PMingLiU" />
+            <attribute name="value" value="@PMingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@SimSun" name="pkrJa@SimSun" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@SimSun" />
+            <attribute name="value" value="@SimSun"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@Small Fonts" name="pkrJa@Small Fonts" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@Small Fonts" />
+            <attribute name="value" value="@Small Fonts"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@System" name="pkrJa@System" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@System" />
+            <attribute name="value" value="@System"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@Terminal" name="pkrJa@Terminal" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:@Terminal" />
+            <attribute name="value" value="@Terminal"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Batang" name="pkrJaBatang" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:Batang" />
+            <attribute name="value" value="Batang"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="BatangChe" name="pkrJaBatangChe" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:BatangChe" />
+            <attribute name="value" value="BatangChe"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Gungsu" name="pkrJaGungsu" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:GungsuhChe" />
+            <attribute name="value" value="Gungsuh"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="GungsuhChe" name="pkrJaGungsuhChe" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:GungsuhChe" />
+            <attribute name="value" value="GungsuhChe"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;E" name="pkrJaHG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;E" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;E" />
+            <attribute name="value" value="HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;E"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M" name="pkrJaHG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M" />
+            <attribute name="value" value="HG&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HG&#x4e38;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M-PRO" name="pkrJaHG&#x4e38;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M-PRO" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:HG&#x4e38;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M-PRO" />
+            <attribute name="value" value="HG&#x4e38;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;M-PRO"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HG&#x884c;&#x66f8;&#x4f53;" name="pkrJaHG&#x884c;&#x66f8;&#x4f53;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:HG&#x884c;&#x66f8;&#x4f53;" />
+            <attribute name="value" value="HG&#x884c;&#x66f8;&#x4f53;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HG&#x6b63;&#x6977;&#x66f8;&#x4f53;-PRO" name="pkrJaHG&#x6b63;&#x6977;&#x66f8;&#x4f53;-PRO" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:HG&#x6b63;&#x6977;&#x66f8;&#x4f53;-PRO" />
+            <attribute name="value" value="HG&#x6b63;&#x6977;&#x66f8;&#x4f53;-PRO"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HGS&#x5275;&#x82f1;&#x89d2;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;UB" name="pkrJaHGS&#x5275;&#x82f1;&#x89d2;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;UB" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:HGS&#x5275;&#x82f1;&#x89d2;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;UB" />
+            <attribute name="value" value="HGS&#x5275;&#x82f1;&#x89d2;&#xff7a;&#xff9e;&#xff7c;&#xff6f;&#xff78;UB"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HG&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;" name="pkrJaHG&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:HG&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;" />
+            <attribute name="value" value="HG&#x5275;&#x82f1;&#x89d2;&#xff8e;&#xff9f;&#xff6f;&#xff8c;&#xff9f;&#x4f53;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MingLiU" name="pkrJaMingLiU" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:MingLiU" />
+            <attribute name="value" value="MingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xff2d;&#xff33; &#xff30;&#x30b4;&#x30b7;&#x30c3;&#x30af;" name="pkrJa&#xff2d;&#xff33; &#xff30;&#x30b4;&#x30b7;&#x30c3;&#x30af;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xff2d;&#xff33; &#xff30;&#x30b4;&#x30b7;&#x30c3;&#x30af;" />
+            <attribute name="value" value="&#xff2d;&#xff33; &#xff30;&#x30b4;&#x30b7;&#x30c3;&#x30af;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xff2d;&#xff33; P&#x660e;&#x671d;" name="pkrJa&#xff2d;&#xff33; P&#x660e;&#x671d;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xff2d;&#xff33; P&#x660e;&#x671d;" />
+            <attribute name="value" value="&#xff2d;&#xff33; P&#x660e;&#x671d;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MS UI Gothic" name="pkrJaMS UI Gothic" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:MS UI Gothic" />
+            <attribute name="value" value="MS UI Gothic"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xff2d;&#xff33; &#x30b4;&#x30b7;&#x30c3;&#x30af;" name="pkrJa&#xff2d;&#xff33; &#x30b4;&#x30b7;&#x30c3;&#x30af;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xff2d;&#xff33; &#x30b4;&#x30b7;&#x30c3;&#x30af;" />
+            <attribute name="value" value="&#xff2d;&#xff33; &#x30b4;&#x30b7;&#x30c3;&#x30af;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xff2d;&#xff33; &#x660e;&#x671d;" name="pkrJa&#xff2d;&#xff33; &#x660e;&#x671d;" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xff2d;&#xff33; &#x660e;&#x671d;" />
+            <attribute name="value" value="&#xff2d;&#xff33; &#x660e;&#x671d;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="PMingLiU" name="pkrJaPMingLiU" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:PMingLiU" />
+            <attribute name="value" value="PMingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="SimSun" name="pkrJaSimSun" feature-id="fontLocale1041">
+        <attributes>
+	    <attribute name="style" value="font-family:SimSun" />
+            <attribute name="value" value="SimSun"/>
+        </attributes>
+    </shortcut>
+    <!-- KOREAN -->
+    <shortcut desc="@&#xad74;&#xb9bc;" name="pkrKo@&#xad74;&#xb9bc;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xad74;&#xb9bc;" />
+            <attribute name="value" value="@&#xad74;&#xb9bc;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xad74;&#xb9bc;&#xccb4;" name="pkrKo@&#xad74;&#xb9bc;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xad74;&#xb9bc;&#xccb4;" />
+            <attribute name="value" value="@&#xad74;&#xb9bc;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xad81;&#xc11c;" name="pkrKo@&#xad81;&#xc11c;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xad81;&#xc11c;" />
+            <attribute name="value" value="@&#xad81;&#xc11c;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xad81;&#xc11c;&#xccb4;" name="pkrKo@&#xad81;&#xc11c;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xad81;&#xc11c;&#xccb4;" />
+            <attribute name="value" value="@&#xad81;&#xc11c;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xb3cb;&#xc6c0;" name="pkrKo@&#xb3cb;&#xc6c0;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xb3cb;&#xc6c0;" />
+            <attribute name="value" value="@&#xb3cb;&#xc6c0;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xb3cb;&#xc6c0;&#xccb4;" name="pkrKo@&#xb3cb;&#xc6c0;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xb3cb;&#xc6c0;&#xccb4;" />
+            <attribute name="value" value="@&#xb3cb;&#xc6c0;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xbc14;&#xd0d5;" name="pkrKo@&#xbc14;&#xd0d5;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xbc14;&#xd0d5;" />
+            <attribute name="value" value="@&#xbc14;&#xd0d5;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xbc14;&#xd0d5;&#xccb4;" name="pkrKo@&#xbc14;&#xd0d5;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xbc14;&#xd0d5;&#xccb4;" />
+            <attribute name="value" value="@&#xbc14;&#xd0d5;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xc0c8;&#xad74;&#xb9bc;" name="pkrKo@&#xc0c8;&#xad74;&#xb9bc;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xc0c8;&#xad74;&#xb9bc;" />
+            <attribute name="value" value="@&#xc0c8;&#xad74;&#xb9bc;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xd734;&#xba3c;&#xb9e4;&#xc9c1;&#xccb4;" name="pkrKo@&#xd734;&#xba3c;&#xb9e4;&#xc9c1;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xd734;&#xba3c;&#xb9e4;&#xc9c1;&#xccb4;" />
+            <attribute name="value" value="@&#xd734;&#xba3c;&#xb9e4;&#xc9c1;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#xd734;&#xba3c;&#xc61b;&#xccb4;" name="pkrKo@&#xd734;&#xba3c;&#xc61b;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#xd734;&#xba3c;&#xc61b;&#xccb4;" />
+            <attribute name="value" value="@&#xd734;&#xba3c;&#xc61b;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@Fixedsys" name="pkrKo@Fixedsys" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@Fixedsys" />
+            <attribute name="value" value="@Fixedsys"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HY&#xacac;&#xace0;&#xb515;" name="pkrKo@HY&#xacac;&#xace0;&#xb515;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@HY&#xacac;&#xace0;&#xb515;" />
+            <attribute name="value" value="@HY&#xacac;&#xace0;&#xb515;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HY&#xacac;&#xba85;&#xc870;" name="pkrKo@HY&#xacac;&#xba85;&#xc870;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@HY&#xacac;&#xba85;&#xc870;" />
+            <attribute name="value" value="@HY&#xacac;&#xba85;&#xc870;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HY&#xad81;&#xc11c;B" name="pkrKo@HY&#xad81;&#xc11c;B" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@HY&#xad81;&#xc11c;B" />
+            <attribute name="value" value="@HY&#xad81;&#xc11c;B"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HY&#xadf8;&#xb798;&#xd53d;M" name="pkrKo@HY&#xadf8;&#xb798;&#xd53d;M" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@HY&#xadf8;&#xb798;&#xd53d;M" />
+            <attribute name="value" value="@HY&#xadf8;&#xb798;&#xd53d;M"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HY&#xc2e0;&#xba85;&#xc870;" name="pkrKo@HY&#xc2e0;&#xba85;&#xc870;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@HY&#xc2e0;&#xba85;&#xc870;" />
+            <attribute name="value" value="@HY&#xc2e0;&#xba85;&#xc870;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HY&#xc595;&#xc740;&#xc0d8;&#xbb3c;M" name="pkrKo@HY&#xc595;&#xc740;&#xc0d8;&#xbb3c;M" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@HY&#xc595;&#xc740;&#xc0d8;&#xbb3c;M" />
+            <attribute name="value" value="@HY&#xc595;&#xc740;&#xc0d8;&#xbb3c;M"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HY&#xc5fd;&#xc11c;L" name="pkrKo@HY&#xc5fd;&#xc11c;L" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@HY&#xc5fd;&#xc11c;L" />
+            <attribute name="value" value="@HY&#xc5fd;&#xc11c;L"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HY&#xc911;&#xace0;&#xb515;" name="pkrKo@HY&#xc911;&#xace0;&#xb515;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@HY&#xc911;&#xace0;&#xb515;" />
+            <attribute name="value" value="@HY&#xc911;&#xace0;&#xb515;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@HY&#xd5e4;&#xb4dc;&#xb77c;&#xc778;M" name="pkrKo@HY&#xd5e4;&#xb4dc;&#xb77c;&#xc778;M" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@HY&#xd5e4;&#xb4dc;&#xb77c;&#xc778;M" />
+            <attribute name="value" value="@HY&#xd5e4;&#xb4dc;&#xb77c;&#xc778;M"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@MingLiU" name="pkrKo@MingLiU" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@MingLiU" />
+            <attribute name="value" value="@MingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@MS Mincho" name="pkrKo@MS Mincho" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@MS Mincho" />
+            <attribute name="value" value="@MS Mincho"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@MS PMincho" name="pkrKo@MS PMincho" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@MS PMincho" />
+            <attribute name="value" value="@MS PMincho"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@PMingLiU" name="pkrKo@PMingLiU" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@PMingLiU" />
+            <attribute name="value" value="@PMingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@SimSun" name="pkrKo@SimSun" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@SimSun" />
+            <attribute name="value" value="@SimSun"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@System" name="pkrKo@System" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@System" />
+            <attribute name="value" value="@System"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@Terminal" name="pkrKo@Terminal" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:@Terminal" />
+            <attribute name="value" value="@Terminal"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xad74;&#xb9bc;" name="pkrKo&#xad74;&#xb9bc;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xad74;&#xb9bc;" />
+            <attribute name="value" value="&#xad74;&#xb9bc;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xad74;&#xb9bc;&#xccb4;" name="pkrKo&#xad74;&#xb9bc;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xad74;&#xb9bc;&#xccb4;" />
+            <attribute name="value" value="&#xad74;&#xb9bc;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xad81;&#xc11c;" name="pkrKo&#xad81;&#xc11c;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xad81;&#xc11c;" />
+            <attribute name="value" value="&#xad81;&#xc11c;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xad81;&#xc11c;&#xccb4;" name="pkrKo&#xad81;&#xc11c;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xad81;&#xc11c;&#xccb4;" />
+            <attribute name="value" value="&#xad81;&#xc11c;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xbc14;&#xd0d5;" name="pkrKo&#xbc14;&#xd0d5;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xbc14;&#xd0d5;" />
+            <attribute name="value" value="&#xbc14;&#xd0d5;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xbc14;&#xd0d5;&#xccb4;" name="pkrKo&#xbc14;&#xd0d5;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xbc14;&#xd0d5;&#xccb4;" />
+            <attribute name="value" value="&#xbc14;&#xd0d5;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xc0c8;&#xad74;&#xb9bc;" name="pkrKo&#xc0c8;&#xad74;&#xb9bc;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xc0c8;&#xad74;&#xb9bc;" />
+            <attribute name="value" value="&#xc0c8;&#xad74;&#xb9bc;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xd734;&#xba3c;&#xb9e4;&#xc9c1;&#xccb4;" name="pkrKo&#xd734;&#xba3c;&#xb9e4;&#xc9c1;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xd734;&#xba3c;&#xb9e4;&#xc9c1;&#xccb4;" />
+            <attribute name="value" value="&#xd734;&#xba3c;&#xb9e4;&#xc9c1;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#xd734;&#xba3c;&#xc61b;&#xccb4;" name="pkrKo&#xd734;&#xba3c;&#xc61b;&#xccb4;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:&#xd734;&#xba3c;&#xc61b;&#xccb4;" />
+            <attribute name="value" value="&#xd734;&#xba3c;&#xc61b;&#xccb4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HY&#xacac;&#xace0;&#xb515;" name="pkrKoHY&#xacac;&#xace0;&#xb515;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:HY&#xacac;&#xace0;&#xb515;" />
+            <attribute name="value" value="HY&#xacac;&#xace0;&#xb515;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HY&#xacac;&#xba85;&#xc870;" name="pkrKoHY&#xacac;&#xba85;&#xc870;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:HY&#xacac;&#xba85;&#xc870;" />
+            <attribute name="value" value="HY&#xacac;&#xba85;&#xc870;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HY&#xad81;&#xc11c;B" name="pkrKoHY&#xad81;&#xc11c;B" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:HY&#xad81;&#xc11c;B" />
+            <attribute name="value" value="HY&#xad81;&#xc11c;B"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HY&#xadf8;&#xb798;&#xd53d;M" name="pkrKoHY&#xadf8;&#xb798;&#xd53d;M" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:HY&#xadf8;&#xb798;&#xd53d;M" />
+            <attribute name="value" value="HY&#xadf8;&#xb798;&#xd53d;M"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HY&#xc2e0;&#xba85;&#xc870;" name="pkrKoHY&#xc2e0;&#xba85;&#xc870;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:HY&#xc2e0;&#xba85;&#xc870;" />
+            <attribute name="value" value="HY&#xc2e0;&#xba85;&#xc870;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HY&#xc595;&#xc740;&#xc0d8;&#xbb3c;M" name="pkrKoHY&#xc595;&#xc740;&#xc0d8;&#xbb3c;M" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:HY&#xc595;&#xc740;&#xc0d8;&#xbb3c;M" />
+            <attribute name="value" value="HY&#xc595;&#xc740;&#xc0d8;&#xbb3c;M"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HY&#xc5fd;&#xc11c;L" name="pkrKoHY&#xc5fd;&#xc11c;L" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:HY&#xc5fd;&#xc11c;L" />
+            <attribute name="value" value="HY&#xc5fd;&#xc11c;L"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HY&#xc911;&#xace0;&#xb515;" name="pkrKoHY&#xc911;&#xace0;&#xb515;" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:HY&#xc911;&#xace0;&#xb515;" />
+            <attribute name="value" value="HY&#xc911;&#xace0;&#xb515;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="HY&#xd5e4;&#xb4dc;&#xb77c;&#xc778;M" name="pkrKoHY&#xd5e4;&#xb4dc;&#xb77c;&#xc778;M" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:HY&#xd5e4;&#xb4dc;&#xb77c;&#xc778;M" />
+            <attribute name="value" value="HY&#xd5e4;&#xb4dc;&#xb77c;&#xc778;M"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MingLiU" name="pkrKoMingLiU" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:MingLiU" />
+            <attribute name="value" value="MingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MS Mincho" name="pkrKoMS Mincho" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:MS Mincho" />
+            <attribute name="value" value="MS Mincho"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MS PMincho" name="pkrKoMS PMincho" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:MS PMincho" />
+            <attribute name="value" value="MS PMincho"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="PMingLiU" name="pkrKoPMingLiU" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:PMingLiU" />
+            <attribute name="value" value="PMingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="SimSun" name="pkrKoSimSun" feature-id="fontLocale1042">
+        <attributes>
+	    <attribute name="style" value="font-family:SimSun" />
+            <attribute name="value" value="SimSun"/>
+        </attributes>
+    </shortcut>
+    
+    <!-- SIMPLIFIED CHINESE -->
+    <shortcut desc="MingLiU" name="pkrZhMingLiU" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:MingLiU" />
+            <attribute name="value" value="MingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="SimSun" name="pkrZhSimSun" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:SimSun" />
+            <attribute name="value" value="SimSun"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x5b8b;&#x4f53;" name="pkrZh&#x5b8b;&#x4f53;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x5b8b;&#x4f53;" />
+            <attribute name="value" value="&#x5b8b;&#x4f53;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x65b9;&#x6b63;&#x8212;&#x4f53;" name="pkrZh&#x65b9;&#x6b63;&#x8212;&#x4f53;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x65b9;&#x6b63;&#x8212;&#x4f53;" />
+            <attribute name="value" value="&#x65b9;&#x6b63;&#x8212;&#x4f53;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x65b9;&#x6b63;&#x59da;&#x4f53;" name="pkrZh&#x65b9;&#x6b63;&#x59da;&#x4f53;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x65b9;&#x6b63;&#x59da;&#x4f53;" />
+            <attribute name="value" value="&#x65b9;&#x6b63;&#x59da;&#x4f53;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x4eff;&#x5b8b;_GB2312" name="pkrZh&#x4eff;&#x5b8b;_GB2312" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x4eff;&#x5b8b;_GB2312" />
+            <attribute name="value" value="&#x4eff;&#x5b8b;_GB2312"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x9ed1;&#x4f53;" name="pkrZh&#x9ed1;&#x4f53;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x9ed1;&#x4f53;" />
+            <attribute name="value" value="&#x9ed1;&#x4f53;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x534e;&#x6587;&#x5f69;&#x4e91;" name="pkrZh&#x534e;&#x6587;&#x5f69;&#x4e91;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x534e;&#x6587;&#x5f69;&#x4e91;" />
+            <attribute name="value" value="&#x534e;&#x6587;&#x5f69;&#x4e91;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x534e;&#x6587;&#x7ec6;&#x9ed1;" name="pkrZh&#x534e;&#x6587;&#x7ec6;&#x9ed1;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x534e;&#x6587;&#x7ec6;&#x9ed1;" />
+            <attribute name="value" value="&#x534e;&#x6587;&#x7ec6;&#x9ed1;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x534e;&#x6587;&#x65b0;&#x9b4f;" name="pkrZh&#x534e;&#x6587;&#x65b0;&#x9b4f;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x534e;&#x6587;&#x65b0;&#x9b4f;" />
+            <attribute name="value" value="&#x534e;&#x6587;&#x65b0;&#x9b4f;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x534e;&#x6587;&#x884c;&#x6977;" name="pkrZh&#x534e;&#x6587;&#x884c;&#x6977;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x534e;&#x6587;&#x884c;&#x6977;" />
+            <attribute name="value" value="&#x534e;&#x6587;&#x884c;&#x6977;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x534e;&#x6587;&#x62de;&#x5b8b;" name="pkrZh&#x534e;&#x6587;&#x62de;&#x5b8b;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x534e;&#x6587;&#x62de;&#x5b8b;" />
+            <attribute name="value" value="&#x534e;&#x6587;&#x62de;&#x5b8b;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x6977;&#x4f53;_GB2312" name="pkrZh&#x6977;&#x4f53;_GB2312" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x6977;&#x4f53;_GB2312" />
+            <attribute name="value" value="&#x6977;&#x4f53;_GB2312"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x96b6;&#x4e66;" name="pkrZh&#x96b6;&#x4e66;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x96b6;&#x4e66;" />
+            <attribute name="value" value="&#x96b6;&#x4e66;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x5e7c;&#x5706;" name="pkrZh&#x5e7c;&#x5706;" feature-id="fontLocale2052">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x5e7c;&#x5706;" />
+            <attribute name="value" value="&#x5e7c;&#x5706;"/>
+        </attributes>
+    </shortcut>
+    <!-- TRADITIONAL CHINESE -->
+    <shortcut desc="@&#x65b0;&#x7d30;&#x660e;&#x9ad4;" name="pkrZhTW@&#x65b0;&#x7d30;&#x660e;&#x9ad4;" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#x65b0;&#x7d30;&#x660e;&#x9ad4;" />
+            <attribute name="value" value="@&#x65b0;&#x7d30;&#x660e;&#x9ad4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#x7d30;&#x660e;&#x9ad4;" name="pkrZhTW@&#x7d30;&#x660e;&#x9ad4;" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#x7d30;&#x660e;&#x9ad4;" />
+            <attribute name="value" value="@&#x7d30;&#x660e;&#x9ad4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@&#x6a19;&#x6977;&#x9ad4;" name="pkrZhTW@&#x6a19;&#x6977;&#x9ad4;" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@&#x6a19;&#x6977;&#x9ad4;" />
+            <attribute name="value" value="@&#x6a19;&#x6977;&#x9ad4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@Batang" name="pkrZhTW@Batang" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@Batang" />
+            <attribute name="value" value="@Batang"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@BatangChe" name="pkrZhTW@BatangChe" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@BatangChe" />
+            <attribute name="value" value="@BatangChe"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@Gungsuh" name="pkrZhTW@Gungsuh"  feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@Gungsuh" />
+            <attribute name="value" value="@Gungsuh"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@GungsuhChe" name="pkrZhTW@GungsuhChe"  feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@GungsuhChe" />
+            <attribute name="value" value="@GungsuhChe"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@MS Mincho" name="pkrZhTW@MS Mincho" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@MS Mincho" />
+            <attribute name="value" value="@MS Mincho"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@MS PMincho" name="pkrZhTW@MS PMincho" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@MS PMincho" />
+            <attribute name="value" value="@MS PMincho"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="@SimSun" name="pkrZhTW@SimSun" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:@SimSun" />
+            <attribute name="value" value="@SimSun"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x65b0;&#x7d30;&#x660e;&#x9ad4;" name="pkrZhTW&#x65b0;&#x7d30;&#x660e;&#x9ad4;" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x65b0;&#x7d30;&#x660e;&#x9ad4;" />
+            <attribute name="value" value="&#x65b0;&#x7d30;&#x660e;&#x9ad4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x7d30;&#x660e;&#x9ad4;" name="pkrZhTW&#x7d30;&#x660e;&#x9ad4;" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x7d30;&#x660e;&#x9ad4;" />
+            <attribute name="value" value="&#x7d30;&#x660e;&#x9ad4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="&#x6a19;&#x6977;&#x9ad4;" name="pkrZhTW&#x6a19;&#x6977;&#x9ad4;" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:&#x6a19;&#x6977;&#x9ad4;" />
+            <attribute name="value" value="&#x6a19;&#x6977;&#x9ad4;"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Batang" name="pkrZhTWBatang" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:Batang" />
+            <attribute name="value" value="Batang"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="BatangChe" name="pkrZhTWBatangChe" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:BatangChe" />
+            <attribute name="value" value="BatangChe"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="Gungsuh" name="pkrZhTWGungsuh" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:GungsuhChe" />
+            <attribute name="value" value="Gungsuh"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="GungsuhChe" name="pkrZhTWGungsuhChe" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:GungsuhChe" />
+            <attribute name="value" value="GungsuhChe"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MingLiU" name="pkrZhTWMingLiU" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:MingLiU" />
+            <attribute name="value" value="MingLiU"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MS Mincho" name="pkrZhTWMS Mincho" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:MS Mincho" />
+            <attribute name="value" value="MS Mincho"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="MS PMincho" name="pkrZhTWMS PMincho" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:MS PMincho" />
+            <attribute name="value" value="MS PMincho"/>
+        </attributes>
+    </shortcut>
+    <shortcut desc="SimSun" name="pkrZhTWSimSun" feature-id="fontLocale1028">
+        <attributes>
+	    <attribute name="style" value="font-family:SimSun" />
+            <attribute name="value" value="SimSun"/>
+        </attributes>
+    </shortcut>
+</shortcut-list>

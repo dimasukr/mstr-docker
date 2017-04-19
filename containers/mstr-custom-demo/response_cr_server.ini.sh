@@ -1,0 +1,31 @@
+function t() { [[ ${FUNCNAME[1]} == "source" ]] || { echo "This script must be sourced from another script" >&2; exit 1; }; }; t
+cat << EOF
+[Server]
+Server=1
+Action=4
+InstanceName=${MSTR_INSTANCE}
+ProjectsToRegister=${MSTR_PROJECT}
+ProjectsToUnregister=
+DSName=${META_DB_DSN}
+DSNUser=${META_DB_LOGIN}
+DSNPwd=${META_DB_PASSWORD}
+MDPrefix=
+DSSUser=Administrator
+DSSPwd=${MSTR_PASSWORD}
+Port=${MSTR_PORT}
+EncryptPassword=0
+RegisterAsService=0
+StartServerAfterConfig=0
+ConfigureSSL=0
+SSLPort=
+CertificatePath=
+KeyPath=
+KeyPassword=
+DefaultStatisticsRep=0
+DefaultDSNNameDefaultStatistics=${META_STAT_DSN}
+UserNameDefaultStatistics=${META_STAT_LOGIN}
+UserPwdDefaultStatistics=${META_STAT_PASSWORD}
+EncryptUserPwdDefaultStatistics=0
+DefaultStatisticsPrefix=
+DefaultStatisticsBasicStats=0
+EOF
