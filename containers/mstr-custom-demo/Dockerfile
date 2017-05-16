@@ -1,9 +1,9 @@
 # vim:set ft=dockerfile:
-FROM mstr-install-activate
+FROM mstr-pre-demo
 
 COPY  *.jar ${DEMO_INSTALL_HOME}/
 COPY  *.sh  ${DEMO_INSTALL_HOME}/
-COPY  password.txt ${DEMO_INSTALL_HOME}/
+# COPY  password.txt ${DEMO_INSTALL_HOME}/
 COPY  fonts/*  ${DEMO_INSTALL_HOME}/fonts/
 COPY  img/*  ${DEMO_INSTALL_HOME}/img/
 
