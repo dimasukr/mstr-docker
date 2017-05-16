@@ -51,8 +51,8 @@ docker build --file ./containers/postgre-novol/Dockerfile --tag postgre-novol:la
 docker run --name "postgre-novol" --hostname="postgre-mstr" -e POSTGRES_PASSWORD="${META_DB_ADMINPWD}" -d "postgre-novol"
 sleep 15
 
-docker build --file ./containers/mstr-custom-demo/Dockerfile --tag postgre-novol:latest ./containers/mstr-custom-demo/
-docker build --file ./containers/mstr-custom1-demo/Dockerfile --tag postgre-novol:latest ./containers/mstr-custom1-demo/
+docker build --file ./containers/mstr-custom-demo/Dockerfile --tag mstr-custom-demo:latest ./containers/mstr-custom-demo/
+docker build --file ./containers/mstr-custom1-demo/Dockerfile --tag mstr-custom-demo1:latest ./containers/mstr-custom1-demo/
 
 
 #Export container images that need to transferred somewhere as files
