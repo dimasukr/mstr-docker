@@ -1,3 +1,7 @@
+Microstrategy is readying to release their own version of Microstrategy in multiple containers.  
+So this effort doesn't make much sense anymore.  
+This repository is archived and all issues are closed.
+
 # mstr-docker
 This repository contains code presented at MSTR World 2017 in MSTR in Docker presentation.
 
